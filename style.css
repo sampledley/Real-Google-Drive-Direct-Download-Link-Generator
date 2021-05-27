@@ -1,0 +1,7 @@
+.inner{max-width:750px;margin:auto;background:linear-gradient(white,silver);border-color: aqua;padding: 8px;}
+p{color:gray}
+input{height:55px;width:250px;padding:2px solid silver;border-radius:8px}
+button{background-color: navy;color:aqua;padding:10px;border-color: silver;border-radius: 12px;}
+h2{color:black;text-align: center;text-decoration: underline;}
+ li{color:gray}      
+body{background-color: black;}
